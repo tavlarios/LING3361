@@ -1,0 +1,26 @@
+﻿column_text,TIME,VALUE,DURATION
+"GROUP 1, PHONEME DELETION: (1) What's the capital of Nor_ay? [Norway]",0.52244898,63,1.880816327
+"GROUP 6, DISTRACTOR: (2) What's the capital of CroNEsia? ['There is no such country']",9.543401361,62,2.054965986
+"GROUP 2, STRESS SHIFT: (3) What's the capital of GuaTEMala? [Guatemala]",19.67891157,59,2.054965986
+"GROUP 4, PHONEME SUBSTITUTION, LATE: (4) What's the capital of Saudi Arapia? [Saudi Arabia]",27.98004535,60,2.925714286
+"GROUP 7, CONTROL STIMULI: (5) What's the capital of Hungary? [No distortion]",38.11555556,60,1.613786848
+"GROUP 3, PHONEME SUBSTITUTION, EARLY: (6) What's the capital of Plexico? [Mexico]",47.03201814,59,1.311927438
+"GROUP 5, PHONEME SUBSTITUTION, EARLY + LATE: (7) What's the capital of the Neberlamz? [the Netherlands]",54.78748299,60,1.613786848
+"GROUP 5, PHONEME SUBSTITUTION, EARLY + LATE: (8) What's the capital of Bolant? [Poland]",63.0770068,60,1.637006803
+"GROUP 6, DISTRACTOR: (9) What's the capital of South RoLANdia? ['There is no such country']",71.49424036,59,1.660226757
+"GROUP 1, PHONEME DELETION: (10) What's the capital of S_itzerlan_? [Switzerland]",80.20172336,58,1.776326531
+"GROUP 7, CONTROL STIMULI: (11) What's the capital of Morocco? [No distortion]",88.44480726,58,1.520907029
+"GROUP 2, STRESS SHIFT: (12) What's the capital of VeNEZuela? [Venezuela]",97.80244898,58,1.718276644
+"GROUP 5, PHONEME SUBSTITUTION, EARLY + LATE: (13) What's the capital of New Sealank? [New Zealand]",105.999093,62,1.625396825
+"GROUP 3, PHONEME SUBSTITUTION, EARLY: (14) What's the capital of Ricaragua? [Nicaragua]",113.7545578,58,1.462857143
+"GROUP 7, CONTROL STIMULI: (15) What's the capital of Bulgaria? [No distortion]",122.3343311,56,1.729886621
+"GROUP 4, PHONEME SUBSTITUTION, LATE: (16) What's the capital of the Dominican Selulic? [the Dominican Republic]",131.0069841,60,2.519365079
+"GROUP 2, STRESS SHIFT: (17) What's the capital of CosTA RiCA? [Costa Rica]",139.6564172,59,1.904036281
+"GROUP 6, DISTRACTOR: (18) What's the capital of NarFUland? ['There is no such country']",148.3755102,58,2.64707483
+"GROUP 3, PHONEME SUBSTITUTION, EARLY: (19) What's the capital of Gambodia? [Cambodia]",159.3353288,56,1.602176871
+"GROUP 1, PHONEME DELETION: (20) What's the capital of Aus_ralia? [Australia]",168.5884807,55,1.47446712
+"GROUP 7, CONTROL STIMULI: (21) What's the capital of Mozambique? [No distortion]",177.7951927,56,1.34675737
+"GROUP 4, PHONEME SUBSTITUTION, LATE: (22) What's the capital of South Apricot? [South Africa]",186.374966,60,1.741496599
+"GROUP 6, DISTRACTOR: (23) What's the capital of SLAGorea? ['There is no such country']",194.6296599,59,2.403265306
+"GROUP 5, PHONEME SUBSTITUTION, EARLY + LATE: (24) What's the capital of Avghanistam? [Afghanistan]",204.0685714,61,1.938866213
+"GROUP 3, PHONEME SUBSTITUTION, EARLY: (25) What's the capital of the Fewunited Kingdom? [the United Kingdom]",212.4393651,57,1.753106576
